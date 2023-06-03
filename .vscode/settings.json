@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "blit",
+    "diaganols",
+    "MOUSEMOTION",
+    "myfont",
+    "posx",
+    "SQUARESIZE"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
